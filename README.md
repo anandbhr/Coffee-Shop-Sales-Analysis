@@ -15,3 +15,6 @@ The dataset contains around 1,50,000 transactions and the aim is to analyze this
 
 ## Analysis
 The dataset was cleaned and analysed using Microsoft Excel and an Interactive Dashboard was created answering the Insight requests of the Stakeholders.
+
+## Dashboard
+![page](https://github.com/anandbhr/Coffee-Shop-Sales-Analysis/blob/main/Dashboard.png)
